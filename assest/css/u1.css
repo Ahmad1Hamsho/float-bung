@@ -1,0 +1,63 @@
+box {
+  width: 10vw;
+  height: 20vh;
+}
+
+.box1 {
+  background-color: blue;
+  float: left;
+}
+
+.box2 {
+  background-color: orangered;
+  float: right;
+}
+
+.box3 {
+  background-color: green;
+  clear: both;
+}
+
+.box4 {
+  background-color: blue;
+  float: right;
+}
+
+.box5 {
+  background-color: orangered;
+  float: right;
+  clear: right;
+}
+
+.box6 {
+  background-color: green;
+  clear: both;
+}
+.box7 {
+  background-color: blue;
+  float: right;
+  clear: right;
+}
+
+.box8 {
+  background-color: orangered;
+  float: right;
+  clear: right;
+}
+
+.box9 {
+  background-color: green;
+  float: right;
+  clear: right;
+}
+
+div {
+  overflow: auto;
+  color: white;
+  font-size: 2em;
+}
+
+#divs {
+  border: 10px solid black;
+  margin-top: 5vh;
+}
